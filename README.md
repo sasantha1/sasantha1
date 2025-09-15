@@ -77,7 +77,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" <a href= "https://www.linkedin.com/in/sasantha-sanju-226946357/ >width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
@@ -113,7 +113,7 @@
 
 ###
 
-<h5 align="left">💡 “First, solve the problem. Then, write the code.”           <br><br>                                         John Johnson</h5>
+<h4 align="left">💡 “First, solve the problem. Then, write the code.”    <h4>     <h5>  <br><br>                                         John Johnson</h5>
 
 ###
 
