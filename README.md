@@ -107,26 +107,5 @@
   <img src="https://github-profile-trophy.vercel.app?username=sasantha1&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
-
-<h2 align="left">✍️ Random Dev Quote</h2>
-
-###
-
-<h4 align="left">💡 “First, solve the problem. Then, write the code.”    <h4>     <h5>  <br><br>                                         John Johnson</h5>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sasantha1/sasantha1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sasantha1/sasantha1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sasantha1/sasantha1/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sasantha1.sasantha1&"  />
-</div>
 
 ###
